@@ -1,5 +1,5 @@
 # tiktok_shop-assistant
-/*
+
 ========================================================================
  TikTok Shop Assistant
  ------------------------------------------------------------------------
@@ -16,4 +16,3 @@
       mirroring the seamless checkout described under Performance
       Improvement on the poster.
 ========================================================================
-*/
